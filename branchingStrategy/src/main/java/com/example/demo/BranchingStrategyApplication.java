@@ -8,6 +8,7 @@ public class BranchingStrategyApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BranchingStrategyApplication.class, args);
+		// demo commit
 	}
 
 }
